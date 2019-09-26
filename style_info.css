@@ -1,0 +1,43 @@
+body{
+    background-image: url('62672_photo_manipulation_vaporwave.jpg');
+}
+
+.header{
+	width: 800px;
+	height: 100px;
+	margin: 0 auto;
+	background: linear-gradient(to bottom, #ffffff, #000000);
+	margin-bottom: 10px;
+	box-shadow: 5px 5px 2px black;
+	border-radius: 10px;
+}
+
+.nav{
+	width: 800px;
+	height: 25px;
+	color: navy;
+	background: white;
+	margin: 0 auto;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px black;
+	margin-bottom: 10px;
+}
+
+.link{
+    float: left;
+	width: 100px;
+	margin-left: 50px;
+}
+
+.article{
+	text-align: center;
+	width: 800px;
+	height: 510px;
+	border-radius: 10px;
+	background: linear-gradient(to bottom, #ede8a1, #edbea1);
+	margin: 0 auto;
+}
+
+.footer{
+	text-align: left;
+}
